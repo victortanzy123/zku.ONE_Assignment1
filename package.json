@@ -1,0 +1,17 @@
+{
+  "name": "assignment1_q2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bytes32": "^0.0.3",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.30",
+    "web3-utils": "^1.7.1"
+  }
+}
